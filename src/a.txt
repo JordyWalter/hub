@@ -2,4 +2,3 @@ apples
 oranges
 kiwis
 carrots
-test
